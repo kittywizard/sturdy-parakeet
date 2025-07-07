@@ -1,2 +1,3 @@
-# sturdy-parakeet
-phaser learning
+# sturdy parakeet
+
+learning phaser, nothing to see here
