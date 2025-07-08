@@ -35,6 +35,4 @@ function  create ()
         this.scene.start('Preloader');
     }
 
-function update () {
-    
-}
+    export { config, preload, create}
